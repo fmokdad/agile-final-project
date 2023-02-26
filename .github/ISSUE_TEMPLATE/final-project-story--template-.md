@@ -11,7 +11,7 @@ assignees: ''
 **I need [   ]
 ** So that [  ]
 
-### Details and Assuptions
+### Details and Assumptions
 *
 ** Acceptance Criteria
 Given *some context*
